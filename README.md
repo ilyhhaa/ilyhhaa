@@ -7,7 +7,9 @@ Skills: С#/ASP.NET MVC/Entity/ASP.NET Core/
 - 🔭 I’m currently working on this page. 
 
 ![Codewars](https://www.codewars.com/users/IlyaKunitsky/badges/large)
-![Codewars](https://github.r2v.ch/codewars?user=IlyaKunitskyE&stroke=black)
+
+![Codewars](https://github.r2v.ch/codewars?user=IlyaKunitskyE&stroke=%23BB432C)
+
 Codewars Profile:
 https://www.codewars.com/users/IlyaKunitsky
 
