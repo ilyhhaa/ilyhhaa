@@ -8,7 +8,7 @@ Skills: С#/ASP.NET MVC/Entity/ASP.NET Core/
 
 ![Codewars](https://www.codewars.com/users/IlyaKunitsky/badges/large)
 
-![Codewars](https://github.r2v.ch/codewars?user=IlyaKunitskyE&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=IlyaKunitsky&stroke=%23BB432C)
 
 Codewars Profile:
 https://www.codewars.com/users/IlyaKunitsky
