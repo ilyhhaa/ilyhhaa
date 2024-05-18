@@ -12,5 +12,6 @@ Skills: С#/ASP.NET MVC/Entity/ASP.NET Core/
 
 Codewars Profile:
 https://www.codewars.com/users/IlyaKunitsky
-
+work.
 Work.
+WORK.
